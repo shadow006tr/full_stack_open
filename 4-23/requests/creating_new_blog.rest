@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs/ HTTP/1.1
+content-type: application/json
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNoYWRvdyIsImlkIjoiNjUyMmViZmNjZjc5NGJjNDViMDljYmQ2IiwiaWF0IjoxNjk2OTIyMTQ1LCJleHAiOjE2OTY5MjU3NDV9.PqPHTItI6IPh5FKTU7zcSFTW5lpB957AZ2mxoq71p0I
+
+{
+  "title": "test",
+  "author": "bloop",
+  "url": "https://test.com/bloop",
+  "userId": "6522ebfccf794bc45b09cbd6"
+}
