@@ -1,9 +1,0 @@
-POST http://localhost:3003/api/blogs/ HTTP/1.1
-content-type: application/json
-
-{
-  "title": "test",
-  "author": "bloop",
-  "url": "https://test.com/bloop",
-  "userId": "6522ebfccf794bc45b09cbd6"
-}
