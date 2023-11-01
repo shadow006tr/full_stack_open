@@ -1,1 +1,0 @@
-I've only added the last stage of the blog list app, because I accidentally did a checkout on my git folder and it removed all the other stages. Hope it will be ok, if not I can delete parts on the code and commit again
